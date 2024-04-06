@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **salmafadlazzam@gmail.com**
 
-- ⚡ Fun fact **I love human languages as much as I love computer languages, I speak Arabic, English, Turkish fluently, and i'm currently learning Chinese and Korean**
+- ⚡ Fun fact **I love human languages as much as I love computer languages, I speak Arabic, English and Turkish fluently, and i'm currently learning Chinese and Korean**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
