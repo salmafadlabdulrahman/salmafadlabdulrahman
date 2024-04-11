@@ -1,5 +1,5 @@
 <h1 align="center">Hi👾 , I'm Salma</h1>
-<h3 align="center">A passionate frontend developer from Egypt</h3>
+<h3 align="center">A frontend developer from Egypt</h3>
 
 - 🔭 I’m currently working on **Product feedback App**
 
@@ -7,11 +7,11 @@
 
 - 👨‍💻 All of my projects are available at [https://comfy-pithivier-78a241.netlify.app/](https://comfy-pithivier-78a241.netlify.app/)
 
-- 💬 Ask me about **Javascript, React, Tailwind, Figma**
+- 💬 Ask me about **Javascript, React, Tailwind, CSS, Figma**
 
 - 📫 How to reach me **salmafadlazzam@gmail.com**
 
-- ⚡ Fun fact **I love human languages as much as I love computer languages, I speak Arabic, English and Turkish fluently, and i'm currently learning Chinese and Korean**
+- ⚡ Fun fact **I love human languages as much as I love programming languages, I speak Arabic, English, and Turkish fluently, and i'm currently learning Chinese and Korean**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
