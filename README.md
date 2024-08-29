@@ -1,9 +1,9 @@
 <h1 align="center">Hi👾 , I'm Salma</h1>
 <h3 align="center">A frontend developer from Egypt</h3>
 
-- 🔭 I’m currently working on **Product feedback App**
+- 🔭 I’m currently working on **Coffee Shop Clone App**
 
-- 🌱 I’m currently learning **Next js, Redux, TypeScript**
+- 🌱 I’m currently learning **Next js, TypeScript**
 
 - 👨‍💻 All of my projects are available at [https://comfy-pithivier-78a241.netlify.app/](https://comfy-pithivier-78a241.netlify.app/)
 
