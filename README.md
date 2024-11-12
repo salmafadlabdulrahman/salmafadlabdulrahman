@@ -1,7 +1,7 @@
 <h1 align="center">Hi👾 , I'm Salma</h1>
 <h3 align="center">A frontend developer from Egypt</h3>
 
-- 🔭 I’m currently working on **Coffee Shop Clone App**
+- 🔭 I’m currently working on **Personal Finance App**
 
 - 🌱 I’m currently learning **Next js, TypeScript**
 
