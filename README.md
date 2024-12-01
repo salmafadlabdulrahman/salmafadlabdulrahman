@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Next js, TypeScript**
 
-- 👨‍💻 All of my projects are available at [https://comfy-pithivier-78a241.netlify.app/](https://comfy-pithivier-78a241.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://salma-portfolio-gold.vercel.app/](https://salma-portfolio-gold.vercel.app/)
 
 - 💬 Ask me about **Javascript, React, Tailwind, CSS, Figma**
 
