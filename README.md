@@ -18,7 +18,7 @@ I'm currently working on a Ecommerce Web App<br>I'm currently learning Typescrip
 ---
 [![](https://visitcount.itsvg.in/api?id=salmafadlabdulrahman&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->a>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
