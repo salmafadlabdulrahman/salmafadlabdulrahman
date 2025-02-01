@@ -2,7 +2,7 @@
 <h3 align="center">A frontend developer from Egypt</h3>
 
 # 💫 About Me:
-I'm currently working on a Ecommerce Web App<br>I'm currently learning Typescript<br>Ask me about frontend development<br>I speak Arabic, English, and Turkish fluently. and I'm currently learning chinese.
+I'm currently working on a Live docs App<br>I'm currently learning Typescript<br>Ask me about frontend development<br>I speak Arabic, English, and Turkish fluently. and I'm currently learning chinese.
 
 
 ## 🌐 Socials:
