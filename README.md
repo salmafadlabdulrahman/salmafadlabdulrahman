@@ -1,5 +1,5 @@
 <h1 align="center">Hi👾 , I'm Salma</h1>
-<h3 align="center">A frontend developer from Egypt</h3>
+<h3 align="center">Frontend developer</h3>
 
 # 💫 About Me:
 I'm currently working on a Live docs App<br>I'm currently learning Sass<br>Ask me about frontend development<br>I speak Arabic, English, and Turkish fluently. and I'm currently learning chinese.
