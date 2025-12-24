@@ -2,7 +2,7 @@
 <h3 align="center">Frontend developer</h3>
 
 # 💫 About Me:
-I'm currently working on a Bookstore Web App<br>I'm currently learning Node js<br>Ask me about frontend development<br>I speak Arabic, English, and Turkish fluently. and I'm currently learning chinese.
+I'm currently working on E-commerce Web App<br>I'm currently learning Backend<br>Ask me about frontend development<br>I speak Arabic, English, and Turkish fluently. and I'm currently learning chinese.
 
 
 ## 🌐 Socials:
